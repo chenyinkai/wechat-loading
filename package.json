@@ -27,6 +27,6 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.6.1",
     "clean-webpack-plugin": "^0.1.17",
-    "webpack": "^3.4.0"
+    "webpack": "^3.10.0"
   }
 }
