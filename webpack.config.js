@@ -19,9 +19,9 @@ const config = {
   output: {
     path: resolve('dist'),
     publicPath: '/',
-    library: 'loading',
+    library: 'wechatLoading',
     libraryTarget: 'umd',
-    filename: 'loading.js'
+    filename: 'wechatLoading.js'
   },
   module: {
     rules: [

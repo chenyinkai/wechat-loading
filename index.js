@@ -126,7 +126,7 @@ let showLoadingObj = {
     }
 }
 
-const loading = {
+const wechatLoading = {
     show() {
         showLoadingObj.createLoading();
     },
@@ -134,4 +134,4 @@ const loading = {
         showLoadingObj.closeLoading();
     }
 }
-module.exports = loading
+module.exports = wechatLoading

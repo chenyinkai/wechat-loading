@@ -18,20 +18,20 @@ npm install wechat-loading
 
 ```bash
 // ES6
-import loading from 'wechat-loading';
+import wechatLoading from 'wechat-loading';
 
 // commonjs
-var loading = require("wechat-loading");
+var wechatLoading = require("wechat-loading");
 ```
 
->`<script src="dist/loading.js"></script>`
+>`<script src="dist/wechatLoading.js"></script>`
 
 ### Usage
 
 ```bash
-loading.show();
+wechatLoading.show();
 
-loading.hide();
+wechatLoading.hide();
 ```
 
 ### LICENSE
