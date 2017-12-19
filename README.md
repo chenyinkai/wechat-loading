@@ -8,6 +8,22 @@
 
 ### Install
 
+**Install wechat-loading**
+
+```bash
+npm install wechat-loading
+```
+
+**Import wechat-loading**
+
+```bash
+// ES6
+import loading from 'wechat-loading';
+
+// commonjs
+var loading = require("wechat-loading");
+```
+
 >`<script src="dist/loading.js"></script>`
 
 ### Usage
