@@ -1,0 +1,32 @@
+{
+  "name": "wechat-loading",
+  "version": "1.0.0",
+  "description": "A loading similar to WeChat loading",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyinkai/wechat-loading.git"
+  },
+  "keywords": [
+    "loading",
+    "wechat"
+  ],
+  "author": "chenyinkai <chenyinkai0223@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenyinkai/wechat-loading/issues"
+  },
+  "homepage": "https://github.com/chenyinkai/wechat-loading#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.6.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "webpack": "^3.4.0"
+  }
+}
