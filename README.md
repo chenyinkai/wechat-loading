@@ -9,17 +9,19 @@
 
 >A loading similar to WeChat loading
 
+[DEMO](https://chenyinkai.github.io/Pages/wechat-loading/example/index.html)
+
 ### Install
 
 **Install wechat-loading**
 
-```bash
+```sh
 npm install wechat-loading
 ```
 
 **Import wechat-loading**
 
-```bash
+```js
 // ES6
 import wechatLoading from 'wechat-loading';
 
