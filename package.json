@@ -1,6 +1,6 @@
 {
   "name": "wechat-loading",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A loading similar to WeChat loading",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,13 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.6.1",
     "clean-webpack-plugin": "^0.1.17",
+    "eslint": "^4.12.1",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
     "webpack": "^3.10.0"
   }
 }
